@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 1
 
 #EXTINF:0 tvg-id="avi" group-title="tom&jerrry",Tom & Jerry
 http://193.169.52.206/a-tom-jerry/1-1.mp4
